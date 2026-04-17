@@ -3,8 +3,9 @@
 AI writing is a plague. 
 
 But sometimes it's helpful to edit rather than start from scratch. Better still if that first draft doesn't start out as full-on slop. 
+Or run it on your own writing to make sure you're not accidentally coming across as a large language model.
 
-**/remove-ai-writing** is a Claude Code slash command (i.e. skill) that scans files for AI writing tells and helps you fix them.
+**/remove-ai-writing** is a Claude Code slash command (i.e. skill) that scans files for AI writing tells and helps you fix them. 
 
 This is a simple skill intended to clean up the worst offenses in AI writing. But if communication is important to you, I highly recommend you write for yourself. As a reader, I want to hear your unique voice, not the sanitized robot version.
 
