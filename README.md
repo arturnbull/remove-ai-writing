@@ -1,6 +1,8 @@
 # /remove-ai-writing
 
-AI writing is a plague. But sometimes it's helpful to edit rather than start from scratch. Better still if that first draft doesn't start out as full-on slop. 
+AI writing is a plague. 
+
+But sometimes it's helpful to edit rather than start from scratch. Better still if that first draft doesn't start out as full-on slop. 
 
 /remove-ai-writing is a Claude Code slash command (i.e. skill) that scans files for AI writing tells and helps you fix them.
 
